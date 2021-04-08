@@ -4,7 +4,17 @@
 - 💬 My name is Sheikh Aafaq Rashid an undergraduate student in the stream of CSE from MIET.
 - ⚡ I'm a tech-enthusiast
 - 🌱 I’m currently learning Devops and Machine Learning.
-- 🛹 Skilled in Python3, Redhat Linux (RHEL 8), DevOps related technologies like Docker , K8S, Openshift, Jenkins(CI/CD), Ansible (RH294) , Amazon Web Services (AWS), Data Science(ML & DL), Big Data (Hadoop).
+- 🛹 Skilled in:
+      - Python3 -Redhat Linux (RHEL 8)
+      - Docker 
+      - K8S
+      - Openshift
+      - Jenkins(CI/CD)
+      - Ansible (RH294) 
+      - Amazon Web Services (AWS)
+      - Data Science(ML & DL)
+      - Big Data (Hadoop).
+
 - 📫 sheikhaafaq18@gmail.com
 - ⚡ love coding.
 
