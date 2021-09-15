@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 💬 My name is Sheikh Aafaq Rashid an undergraduate student in the stream of CSE from MIET.
+- 💬 My name is Sheikh Aafaq Rashid a graduate in the stream of CSE from MIET.
 - ⚡ I'm a tech-enthusiast
 - 🌱 I’m currently learning Devops and Machine Learning.
 - 🛹 Skilled in:
@@ -16,7 +16,7 @@
       - Big Data (Hadoop).
 
 - 📫 sheikhaafaq18@gmail.com
-- ⚡ love coding.
+- ⚡ love automation.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheikhaafaq&show_icons=true&theme=highcontrast)
