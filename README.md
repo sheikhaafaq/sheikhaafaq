@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-- 💬 My name is Sheikh Aafaq Rashid a graduate in the stream of CSE from MIET.
-- ⚡ I'm a tech-enthusiast
-- 🌱 I’m currently learning Devops and Machine Learning.
+- 💬 My name is Sheikh Aafaq Rashid.
+- ⚡ DevOps.
 - 🛹 Skilled in:
       - Python3 -Redhat Linux (RHEL 8)
       - Docker 
